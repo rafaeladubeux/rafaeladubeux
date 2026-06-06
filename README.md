@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src = " " width = "325px" aligh = "right">
 
-<!--
-**rafaeladubeux/rafaeladubeux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Meu Perfil
+Olá, me chamo **Rafaela Dubeux Godoy**
+## Sobre mim:
+Graduanda do 1º período de **Ciência da Computação** na **Cesar School** e atualmente estou aprimorando minhas habilidades em **Python, HTML, C++, JavaScrpit** e **CSS**. Estou com muito entusiasmo e motivação para praticar meus conhecimentos em situações reais.
+### Interesses:
+- Áreas envolvendo **Inteligência Artificial** e **Ciência de Dados**
+- Linguagnes **Python** e **C++**
+- Utilização de **Arduino**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes Sociais:
+- Acesse aqui meu [Linkedin](linkedin.com/in/rafaela-dubeux-godoy)
+- Acesse aqui meu [e-mail](rdg@cesar.school)
+  
