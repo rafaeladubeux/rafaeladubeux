@@ -1,4 +1,4 @@
-<img src = " " width = "325px" aligh = "right">
+<img src = "cc.png" width = "325px" align = "right">
 
 # Meu Perfil
 Olá, me chamo **Rafaela Dubeux Godoy**
@@ -8,10 +8,10 @@ Graduanda do 1º período de **Ciência da Computação** na **Cesar School** e 
 - Áreas envolvendo **Inteligência Artificial** e **Ciência de Dados**
 - Linguagnes **Python** e **C++**
 - Utilização de **Arduino**
-
 ---
-
 ## Redes Sociais:
 - Acesse aqui meu [Linkedin](linkedin.com/in/rafaela-dubeux-godoy)
 - Acesse aqui meu [e-mail](rdg@cesar.school)
+## Ferramentas:
+
   
