@@ -1,4 +1,5 @@
-<img src = "cc.png" width = "325px" align = "right">
+<img src = "cc.png" min-width="420px" max-width="420px" width="420px" align="right">
+
 
 # Meu Perfil
 Olá, me chamo **Rafaela Dubeux Godoy**
@@ -10,8 +11,8 @@ Graduanda do 1º período de **Ciência da Computação** na **Cesar School** e 
 - Utilização de **Arduino**
 ---
 ## Redes de Contato:
-- Acesse aqui meu [linkedin](linkedin.com/in/rafaela-dubeux-godoy)
-- Acesse aqui meu [e-mail](rdg@cesar.school)
+- Acesse aqui meu [linkedin](https://www.linkedin.com/in/rafaela-dubeux-godoy/)
+- Meu [e-mail](rdg@cesar.school)
 - Acesse aqui meu [instagram](https://www.instagram.com/dubeuxrafaela/)
 <p align="left">
   <a href="#" title="Gmail">
