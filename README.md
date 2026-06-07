@@ -9,7 +9,7 @@ Estou com muito entusiasmo e motivação para praticar meus conhecimentos em sit
 ### Interesses:
 - Inteligência Artificial
 - Ciência de Dados
-- Linguagens Python e C++
+- Desenvolvimento de Software
   
 ---
 
