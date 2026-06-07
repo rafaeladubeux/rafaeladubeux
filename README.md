@@ -7,10 +7,10 @@ Graduanda do 1º período de **Ciência da Computação** na **Cesar School** e 
 Estou com muito entusiasmo e motivação para praticar meus conhecimentos em situações reais.
 
 ### Interesses:
-- Áreas envolvendo **Inteligência Artificial** e **Ciência de Dados**
-- Linguagens **Python** e **C++**
-- Utilização de **Arduino**
-
+- Inteligência Artificial
+- Ciência de Dados
+- Linguagens Python e C++
+  
 ---
 
 ## Redes de Contato:
