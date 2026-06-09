@@ -15,8 +15,9 @@ Estou com muito entusiasmo e motivação para praticar meus conhecimentos em sit
 
 ## Redes de Contato:
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link" alt="Gmail"/></a>
+  <a href="mailto:rafaeladubeuxgodoy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=FF0000&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/rafaela-dubeux-godoy/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/dubeuxrafaela/" title="Instagram">
