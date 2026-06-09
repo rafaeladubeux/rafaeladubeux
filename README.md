@@ -33,8 +33,8 @@ Estou com muito entusiasmo e motivação para praticar meus conhecimentos em sit
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino"/></code>
 
 ---
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeladubeux&" alt="rafaeladubeux" min-width="370px" max-width="370px" width="350px" /></p>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rafaeladubeux&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
 
 
