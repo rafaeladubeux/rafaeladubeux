@@ -1,4 +1,4 @@
-<img src = "cc.png" min-width="410px" max-width="410px" width="410px" align="right">
+<img src = "imagem.png" min-width="410px" max-width="410px" width="410px" align="right">
 
 # Meu Perfil
 Olá, me chamo **Rafaela Dubeux Godoy**
