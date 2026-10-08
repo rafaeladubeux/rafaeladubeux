@@ -3,7 +3,7 @@
 # Meu Perfil
 Olá, me chamo **Rafaela Dubeux Godoy**
 ## Sobre mim:
-Graduanda do 1º período de **Ciência da Computação** na **Cesar School** e atualmente estou aprimorando minhas habilidades em **Python, HTML, C++, JavaScrpit e CSS**. 
+Graduanda do 2º período de **Ciência da Computação** na **Cesar School** e atualmente estou aprimorando minhas habilidades em **Python, HTML, C, C++, JavaScrpit e CSS**. 
 Estou com muito entusiasmo e motivação para praticar meus conhecimentos em situações reais.
 
 ### Interesses:
