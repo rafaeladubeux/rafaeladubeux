@@ -39,7 +39,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <div align="center">
   
   ![](https://streak-stats.demolab.com/?user=rafaeladubeux&theme=shades-of-purple&hide_border=false)<br/>
-  [![](https://komarev.com/ghpvc/?username=rafaeladubeux&icon=0&color=6f42c1)](https://visitcount.itsvg.in)
-  
+ 
 </div>
 
